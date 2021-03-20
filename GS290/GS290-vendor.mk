@@ -38,9 +38,8 @@ PRODUCT_COPY_FILES += \
     vendor/gigaset/GS290/proprietary/lib64/libvcodec_cap.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_cap.so \
     vendor/gigaset/GS290/proprietary/lib64/libvcodec_capenc.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_capenc.so \
     vendor/gigaset/GS290/proprietary/lib64/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.videotelephony@1.0.so \
-    vendor/gigaset/GS290/proprietary/vendor/bin/aee_aedv:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv \
     vendor/gigaset/GS290/proprietary/vendor/bin/aee_aedv64:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv64 \
-    vendor/gigaset/GS290/proprietary/vendor/bin/aee_archivev:$(TARGET_COPY_OUT_VENDOR)/bin/aee_archivev \
+    vendor/gigaset/GS290/proprietary/vendor/bin/aee_aedv:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv \
     vendor/gigaset/GS290/proprietary/vendor/bin/aee_dumpstatev:$(TARGET_COPY_OUT_VENDOR)/bin/aee_dumpstatev \
     vendor/gigaset/GS290/proprietary/vendor/bin/aeev:$(TARGET_COPY_OUT_VENDOR)/bin/aeev \
     vendor/gigaset/GS290/proprietary/vendor/bin/atcid:$(TARGET_COPY_OUT_VENDOR)/bin/atcid \
@@ -643,7 +642,6 @@ PRODUCT_COPY_FILES += \
     vendor/gigaset/GS290/proprietary/vendor/lib/libcurl-ss.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcurl-ss.so \
     vendor/gigaset/GS290/proprietary/vendor/lib/libcustom_nvram.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcustom_nvram.so \
     vendor/gigaset/GS290/proprietary/vendor/lib/libcvsd_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcvsd_mtk.so \
-    vendor/gigaset/GS290/proprietary/vendor/lib/libdirect-coredump.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdirect-coredump.so \
     vendor/gigaset/GS290/proprietary/vendor/lib/libdpframework.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdpframework.so \
     vendor/gigaset/GS290/proprietary/vendor/lib/libfeature.stereo.provider.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfeature.stereo.provider.so \
     vendor/gigaset/GS290/proprietary/vendor/lib/libfeatureiodrv_mem.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfeatureiodrv_mem.so \
@@ -914,7 +912,6 @@ PRODUCT_COPY_FILES += \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libcurl-ss.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcurl-ss.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libcustom_nvram.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcustom_nvram.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libcvsd_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcvsd_mtk.so \
-    vendor/gigaset/GS290/proprietary/vendor/lib64/libdirect-coredump.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdirect-coredump.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libdpframework.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdpframework.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libeffecthal.base.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libeffecthal.base.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libem_camera_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libem_camera_jni.so \
