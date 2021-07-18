@@ -1072,6 +1072,7 @@ PRODUCT_COPY_FILES += \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libvcodec_oal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_oal.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libvcodec_utility.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_utility.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libverno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libverno.so \
+    vendor/gigaset/GS290/proprietary/vendor/lib64/libvtclib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvtclib.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libwifi-hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifi-hal.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libwifitest.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifitest.so \
     vendor/gigaset/GS290/proprietary/vendor/lib64/libwo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwo.so \
