@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter GX290 yggdrasil,$(TARGET_DEVICE)),)
+ifneq ($(filter GX290 yggdrasilx,$(TARGET_DEVICE)),)
 
 endif

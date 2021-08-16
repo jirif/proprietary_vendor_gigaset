@@ -811,6 +811,11 @@ PRODUCT_COPY_FILES += \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libabfadp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libabfadp.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libacdk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libacdk.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libaedv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaedv.so \
+    vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libarcsoft.picselfie.vfb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft.picselfie.vfb.so \
+    vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libarcsoft_aiscenedetection.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_aiscenedetection.so \
+    vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_beautyshot.so \
+    vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libarcsoft_high_dynamic_range.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_high_dynamic_range.so \
+    vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libarcsoft_picselfie_algorithm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_picselfie_algorithm.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libaudio_param_parser-vnd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudio_param_parser-vnd.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libaudiocompensationfilter_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiocompensationfilter_vendor.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libaudiocompensationfilterc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiocompensationfilterc.so \
@@ -921,6 +926,9 @@ PRODUCT_COPY_FILES += \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libminiui.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libminiui.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libmmprofile.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmprofile.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libmnetlink_v104.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmnetlink_v104.so \
+    vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libmorpho_Superlowlight.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmorpho_Superlowlight.so \
+    vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libmorpho_super_resolution.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmorpho_super_resolution.so \
+    vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libmpbase.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmpbase.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libmsbc_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmsbc_mtk.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libmtcloader.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtcloader.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libmtee.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtee.so \
@@ -1017,6 +1025,7 @@ PRODUCT_COPY_FILES += \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libsysenv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsysenv.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libthha.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthha.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libudf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libudf.so \
+    vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libuvcamfilter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libuvcamfilter.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libvcodec_oal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_oal.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libvcodec_utility.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_utility.so \
     vendor/gigaset/GX290-unified/proprietary/vendor/lib64/libverno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libverno.so \
@@ -1083,6 +1092,7 @@ PRODUCT_COPY_FILES += \
     vendor/gigaset/GX290-unified/proprietary/vendor/thh/ta/0401c03fc30c4dd00000000000000104.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/0401c03fc30c4dd00000000000000104.ta \
     vendor/gigaset/GX290-unified/proprietary/vendor/thh/ta/93feffccd8ca11e796c7c7a21acb4932.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/93feffccd8ca11e796c7c7a21acb4932.ta \
     vendor/gigaset/GX290-unified/proprietary/vendor/thh/ta/b09c9c5daa504b78b0e46eda61556c3a.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/b09c9c5daa504b78b0e46eda61556c3a.ta \
+    vendor/gigaset/GX290-unified/proprietary/vendor/thh/ta/bd038be8f6724256887c1fa734524012.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/bd038be8f6724256887c1fa734524012.ta \
     vendor/gigaset/GX290-unified/proprietary/vendor/thh/ta/c09c9c5daa504b78b0e46eda61556c3a.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/c09c9c5daa504b78b0e46eda61556c3a.ta \
     vendor/gigaset/GX290-unified/proprietary/vendor/thh/ta/c1882f2d885e4e13a8c8e2622461b2fa.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/c1882f2d885e4e13a8c8e2622461b2fa.ta \
     vendor/gigaset/GX290-unified/proprietary/vendor/thh/ta/d91f322ad5a441d5955110eda3272fc0.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/d91f322ad5a441d5955110eda3272fc0.ta
