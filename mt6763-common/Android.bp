@@ -58,3 +58,15 @@ dex_import {
 	jars: ["proprietary/framework/mediatek-telephony-common.jar"],
 }
 
+dex_import {
+	name: "mediatek-ims-extension-plugin",
+	owner: "gigaset",
+	jars: ["proprietary/framework/mediatek-ims-extension-plugin.jar"],
+}
+
+dex_import {
+	name: "mediatek-ims-legacy",
+	owner: "gigaset",
+	jars: ["proprietary/framework/mediatek-ims-legacy.jar"],
+}
+
